@@ -1,0 +1,27 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "Gestion de packages",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPikuniku/npm.git"
+  },
+  "author": "Mamouro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPikuniku/npm/issues"
+  },
+  "homepage": "https://github.com/MrPikuniku/npm#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
